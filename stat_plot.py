@@ -1,7 +1,8 @@
 #!/bin/python3
 """ Helper tools to create plots from APES data.
 Before using these functions to create plots, make sure to use the functions in gleaner.py
-to calculate the statistical quantities, where the data is also stored in the database.
+from gleaner repository to calculate the statistical quantities, where the data will also
+be stored in the database.
 
 These functions were developed as a part of the Master Thesis done by Achuthan Rajendran,
 master student at TU Dresden.
